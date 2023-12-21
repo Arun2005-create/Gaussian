@@ -46,7 +46,8 @@ for i in range(n):
 ```
 
 ## Output:
-![gaussian elimination](/Gussian1.png)
+![Gussian1](https://github.com/Arun2005-create/Gaussian/assets/138849356/1fa1314b-fed5-4f75-9109-b4d5c4482f6e)
+
 
 
 ## Result:
